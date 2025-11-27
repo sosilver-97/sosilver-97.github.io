@@ -20,7 +20,7 @@
 
 title: Dr. Sophie Silver, Ph.D.
 description: A landing page for all of my research achievements, passion projects, and works in progress.
-accent image: https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/2/204_PIA19048.jpg?w=2300&h=1700&fit=clip&crop=faces%2Cfocalpoint
+accent image: assets\img\europa.jpg
 
 url: "https://sosilver-97.github.io"
 baseurl: ""
