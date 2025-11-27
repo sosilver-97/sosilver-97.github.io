@@ -24,7 +24,7 @@ description: A landing page for all of my research achievements, passion project
 url: "https://sosilver-97.github.io"
 baseurl: ""
 
-remote_theme: hydecorp/hydejack@v9
+remote_theme: Huxpro/huxpro.github.io
 
 plugins:
   - jekyll-include-cache
