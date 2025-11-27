@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your Site Title
-description: Your description here
+title: Dr. Sophie Silver, Ph.D.
+description: A landing page for all of my research achievements, passion projects, and works in progress.
 
 url: "https://sosilver-97.github.io"
 baseurl: ""
